@@ -1,0 +1,300 @@
+  369  ls
+  370  cd ..
+  371  ls
+  372  cd htdocs
+  373  ls
+  374  pwd
+  375  cd ..
+  376  ls
+  377  cd ..
+  378  ls
+  379  cd MAMP
+  380  ls
+  381  cd htdocs
+  382  ls
+  383  cd portfolio_2022
+  384  ls
+  385  ls
+  386  cd laravel_blog
+  387  ls
+  388  gh repo clone fuku-youtube/laravel-blog
+  389  git clone https://github.com/fuku-youtube/laravel-blog.git
+  390  ls
+  391  ls laravel-blog
+  392  cd ..
+  393  ls
+  394  rm -r laravel_blog
+  395  ls
+  396  git clone https://github.com/fuku-youtube/laravel-blog.git
+  397  ls
+  398  git clone https://github.com/uchidayuma/laravel-simple-note.git
+  399  ls
+  400  cd laravel-blog
+  401  ls
+  402  git init
+  403  git add .
+  404  git commit -m 'initial commit'
+  405  pwd
+  406  git remote add origin https://github.com/takahiro888/portfolio_2022_laravel-blog.git
+  407  git remote rm origin
+  408  git remote add origin https://github.com/takahiro888/portfolio_2022_laravel-blog.git
+  409  git branch -M main
+  410  git push -u origin main
+  411  pwd
+  412  ls
+  413  touch -a ./
+  414  ls -ld
+  415  ls -ld readme.md
+  416  git init
+  417  git remote rm origin
+  418  git add .
+  419  git commit -m 'initial commit'
+  420  git remote add origin https://github.com/takahiro888/portfolio_2022_laravel-blog.git
+  421  git branch -M main
+  422  git push -u origin main
+  423  git remote add origin https://github.com/takahiro888/portfolio_2022_laravel-blog.git
+  424  git remote rm origin
+  425  git remote add origin https://github.com/takahiro888/portfolio_2022_laravel-blog.git
+  426  git branch -M main
+  427  git push -u origin main
+  428  php -v
+  429  sudo apt update
+  430  sudo apt update
+  431  sudo apt install software-properties-common
+  432  sudo add-apt-repository ppa:ondrej/php
+  433  sudo apt install php8.1
+  434  which php 
+  435  brew upgrade php
+  436  brew upgrade php
+  437  php -v
+  438  brew upgrade
+  439  brew search php
+  440  brew install php@8.1
+  441  php -v
+  442  export PATH="/usr/local/opt/php@8.1/bin:$PATH"
+  443  export PATH="/usr/local/opt/php@8.1/sbin:$PATH"
+  444  php -v
+  445  source ~/.zshrc
+  446  . ~/.zshrc
+  447  composer create-project --prefer-dist laravel/laravel after_update
+  448  sudo apt install php8.1-xml
+  449  /usr/libexec/java_home -V
+  450  brew search java11
+  451  brew install java11
+  452  echo 'export PATH="/usr/local/opt/openjdk@11/bin:$PATH"' >> ~/.zshrc
+  453  export CPPFLAGS="-I/usr/local/opt/openjdk@11/include"
+  454  source ~/.zshrc
+  455  java -v
+  456  java -version
+  457  sudo apt install php8.1-xml
+  458  sudo yarn add apt
+  459  sudo yarn install php8.1-xml
+  460  sudo yum install php8.1-xml
+  461  php -v
+  462  pwd
+  463  cd
+  464  mkdir laravel_sail
+  465  ls
+  466  cd laravel_sail
+  467  curl -s https://laravel.build/sample | bash
+  468  ls /usr/local/bin/composer 
+  469  view /usr/local/bin/composer
+  470  composer -v
+  471  git push heroku main
+  472  php -v
+  473  heroku addons:docs 
+  474  docker -v
+  475  brew list
+  476  find docker
+  477  find ./* docker
+  478  find docker ./*
+  479  docker pull centos:centos7
+  480  docker pull centos:centos7
+  481  docker images
+  482  docker run -it -d --name centos7 centos:centos7
+  483  docker ps
+  484  docker exec -it centos7 bash
+  485  docker stop centos7
+  486  docker ps
+  487  docker ps -a
+  488  pwd
+  489  pwd
+  490  cd ~
+  491  ls
+  492  cd /home
+  493  ls
+  494  mkdir test1
+  495  pwd
+  496  mkdir test1
+  497  mkdir test1 ./
+  498  ls
+  499  mkdir -m 777 test1
+  500  exit
+  501  cd ..
+  502  ls
+  503  cd tmp
+  504  ls
+  505  mkdir test1
+  506  ls
+  507  cd test1
+  508  ls
+  509  mkdir -p test1/test2/test3
+  510  ls test1/test2/test3
+  511  ls test1
+  512  touch test1/index.php
+  513  ls test1
+  514  cd test1 && ls
+  515  ls
+  516  cd ..
+  517  ls
+  518  cd test1 && ls
+  519  pwd
+  520  ls
+  521  cp index.php copy.php
+  522  ls
+  523  cp -r test2 test3
+  524  ls
+  525  mv test2/test3 test3
+  526  ls
+  527  rm test3
+  528  rm -r test3
+  529  ls
+  530  rm index.php
+  531  ls
+  532  echo '# Hello World' > README.md
+  533  ls
+  534  cat README.md
+  535  echo '# Hello World2' > README.md
+  536  cat README.md
+  537  echo '# Hello World3' >> README.md
+  538  cat README.md
+  539  vi README.md
+  540  git -v
+  541  git version
+  542  cd /root
+  543  cd ..
+  544  ls
+  545  cd ..
+  546  cd ..
+  547  ls
+  548  cd ..
+  549  ls
+  550  cd tmp
+  551  ls
+  552  mkdir 20221110_GIZUMO
+  553  ls -ld 20221110_GIZUMO
+  554  mv test1 ./20221110_GIZUMO
+  555  ls
+  556  cd 20221110_GIZUMO
+  557  ls
+  558  mkdir server_lesson && cd server_lesson
+  559  git init
+  560  touch first.txt
+  561  sl
+  562  ls
+  563  git init
+  564  ls
+  565  pwd
+  566  mkdir -p linux_practice1/public
+  567  touch index.php ./linux_practice1/public
+  568  ls
+  569  ls linux_practice1/public
+  570  mv index.php ./linux_practice1/public
+  571  ls linux_practice1/public
+  572  ls
+  573  pwd
+  574  ls
+  575  find public
+  576  find type fpublic
+  577  find type f public
+  578  find type -f public
+  579  find -type f public
+  580  find public ./
+  581  ls
+  582  mv server_lesson/linux_practice1/public server_lesson/linux_practice1/tmp
+  583  cd server_lesson/linux_practice1
+  584  cd ./server_lesson/linux_practice1
+  585  ls
+  586  mv linux_practice1/public linux_practice1/tmp
+  587  ls linux_practice1
+  588  ls linux_practice1/tmp
+  589  cp -p linux_practice1/tmp linux_practice1/public
+  590  cp -r linux_practice1/tmp linux_practice1/public
+  591  ls
+  592  ls linux_practice1/tmp
+  593  ls linux_practice1
+  594  ls linux_practice1/public
+  595  pwd
+  596  ls
+  597  mv server_lesson/linux_practice1/public/index.php server_lesson/linux_practice1/public/index_bk.php
+  598  mv linux_practice1/public/index.php linux_practice1/public/index_bk.php
+  599  ls
+  600  ls
+  601  cd linux_practice1
+  602  ls
+  603  ls tmp
+  604  ls public
+  605  pwd
+  606  cd ..
+  607  vi README.md
+  608  cat README.md
+  609  pwd
+  610  ls
+  611  mkdir linux_practice2
+  612  ls
+  613  cd linux_practice2
+  614  ls
+  615  mkdir documents
+  616  ls
+  617  cd documents
+  618  ls
+  619  cd ..
+  620  ls
+  621  mkdir trash
+  622  ls
+  623  cd ..
+  624  ls
+  625  vi README.md
+  626  cat README.md
+  627  ls
+  628  cd README.md
+  629  ls
+  630  pwd
+  631  cd linux_practice2
+  632  ls
+  633  cd documents
+  634  ls
+  635  vi test
+  636  ls
+  637  cat test | mkdir
+  638  cat test | xarge mkdir
+  639  cat test | xargs mkdir
+  640  ls
+  641  rm gizumo03.md
+  642  rm -r gizumo03.md
+  643  ls
+  644  rm -r gizumo0?.md
+  645  ls
+  646  ls
+  647  pwd
+  648  cat test
+  649  rm test
+  650  ls
+  651  touch gizumo{1..50}.md
+  652  ls
+  653  cd ..
+  654  ls
+  655  ls trash
+  656  cd ./documents/gizumo(20..40}.md ./trash
+  657  ls
+  658  ls trash
+  659* 
+  660  cd documents
+  661  cd ..
+  662  ls
+  663  mv ./documents/gizumo{20..40}.md ./trash
+  664  ls trash
+  665  vi .gitignore
+  666  vi .gitignore
+  667  history 30
+  668  history 300 > exec_command.log
